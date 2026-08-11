@@ -9,9 +9,7 @@ Máster en Inteligencia Artificial – CEMP
 
 ## 🧑‍🏫 Director del TFM
 
-Cristian Rodríguez
-
-Tutor colaborador: Marta Gabriela Tudorache
+Tutor principal: Cristian Rodríguez  -  Tutor colaborador: Marta Gabriela Tudorache
 
 ## 🎯 Resumen
 
