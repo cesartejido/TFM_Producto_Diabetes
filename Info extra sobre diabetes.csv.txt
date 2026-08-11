@@ -1,0 +1,9 @@
+Este archivo de datos es comúnmente conocido como el Pima Indians Diabetes Database, utilizado en proyectos de aprendizaje automático y análisis de datos sobre diabetes. Aquí están las respuestas a tus preguntas basadas en las características de este conjunto de datos:
+
+Género del Paciente: En el archivo original, todos los registros corresponden a mujeres del grupo étnico Pima (de ahí el nombre). Así que, sí, puedes asumir que todos los pacientes son mujeres.
+
+Valores de 0 en la Columna de Presión Arterial: En este conjunto, valores de 0 en variables como la presión arterial, espesor de piel, insulina y BMI son comunes y representan datos faltantes, ya que un valor de presión arterial de 0 no es realista. Estos valores de 0 se pueden considerar nulos o reemplazarse con métodos de imputación.
+
+Tipos de Diabetes y Embarazos a Término: Este conjunto de datos no diferencia entre tipos de diabetes ni especifica si los embarazos llegaron a término. El campo "Pregnancies" indica la cantidad de embarazos, pero no detalla más.
+
+Su origen es este: https://archive.ics.uci.edu/dataset/34/diabetes
