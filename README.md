@@ -9,7 +9,7 @@ Máster en Inteligencia Artificial – CEMP
 
 ## 🧑‍🏫 Director del TFM
 
-Tutor principal: Cristian Rodríguez  -  Tutor colaborador: Marta Gabriela Tudorache
+Tutor principal: Cristian Rodríguez  
 
 ## 🎯 Resumen
 
@@ -33,17 +33,14 @@ Se comparan varios algoritmos de clasificación (Regresión Logística, Random F
 
 ## ✅ Conclusiones
 
-*(Se completará al finalizar el desarrollo del modelo.)*
+Este trabajo demuestra que es posible construir un clasificador de riesgo de diabetes fiable y explicable a partir de variables clínicas que cualquier hospital ya recoge de forma rutinaria, sin necesidad de pruebas adicionales. Pero el hallazgo que más condicionó el proyecto no fue el modelo en sí, sino darse cuenta de que el conjunto de datos, en apariencia limpio, escondía un patrón de valores ausentes que había que investigar a fondo antes de tocar ningún algoritmo.
 
-## 📁 Estructura del repositorio
+La Regresión Logística resultó ser el modelo más sólido de los evaluados. Ajustando su umbral de decisión según un criterio clínico, y no por el valor por defecto, mejora de forma notable su capacidad de detectar a las pacientes en riesgo real.
 
-```
-data/          Dataset original y diccionario de variables
-notebooks/     Notebooks de Google Colab (EDA, preprocesamiento, modelado y evaluación)
-src/           Scripts de Python del pipeline final
-figures/       Gráficas exportadas para la memoria del TFM
-models/        Modelo entrenado final
-```
+Más allá del rendimiento estadístico, el trabajo evalúa la solución como lo haría un hospital de verdad: su encaje normativo, su viabilidad económica y un plan de implantación por fases. La conclusión de fondo es que un buen modelo no es, por sí solo, un producto sanitario. Es el punto de partida de uno, y la memoria recorre con honestidad la distancia que todavía queda por cubrir para llegar a serlo.
+
+Los detalles completos, metodología, resultados y limitaciones incluidos, están desarrollados en la memoria del TFM disponible en este repositorio.
+
 
 ## 🔗 Enlaces relacionados
 
