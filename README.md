@@ -1,15 +1,14 @@
 # 🩺 Clasificación de enfermos diabéticos mediante Machine Learning
 
-📌 Trabajo de Fin de Máster – Máster en Inteligencia Artificial (CEMP)
+📌 Trabajo de Fin de Máster – Máster en Aplicaciones de Inteligencia Artificial en Sanidad (CEMP)
 
 ## 👤 Autor
 
 Julio César Tejido González
-Máster en Inteligencia Artificial – CEMP
 
 ## 🧑‍🏫 Director del TFM
 
-Tutor principal: Cristian Rodríguez  
+Cristian Rodríguez  
 
 ## 🎯 Resumen
 
@@ -44,5 +43,4 @@ Los detalles completos, metodología, resultados y limitaciones incluidos, está
 
 ## 🔗 Enlaces relacionados
 
-- Memoria completa del TFM (PDF): *enlace pendiente*
 - Dataset original: https://archive.ics.uci.edu/dataset/34/diabetes
