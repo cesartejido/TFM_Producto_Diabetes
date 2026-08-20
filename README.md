@@ -1,4 +1,4 @@
-# 🩺 Clasificación de enfermos diabéticos mediante Machine Learning
+# 🩺 Producto de IA para la clasificación de pacientes diabéticas
 
 📌 Trabajo de Fin de Máster – Máster en Aplicaciones de Inteligencia Artificial en Sanidad (CEMP)
 
